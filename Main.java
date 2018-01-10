@@ -14,9 +14,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 
-/** 
-A modifier ! 
-*/
 
 public class Main {
 
